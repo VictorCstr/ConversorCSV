@@ -1,13 +1,13 @@
 {
   "name": "projeto-conversorpdf",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Software básico onde inserimos um arquivo de planilha csv e ele faz a conversão em um arquivo HTML e também PDF",
+  "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Victor Castro",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.6",
